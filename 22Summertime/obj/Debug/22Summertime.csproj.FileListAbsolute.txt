@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\22Summertime\bin\Debug\22Summertime.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\22Summertime\bin\Debug\22Summertime.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\22Summertime\bin\Debug\22Summertime.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\22Summertime\obj\Debug\22Summertime.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\22Summertime\obj\Debug\22Summertime.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\22Summertime\obj\Debug\22Summertime.pdb

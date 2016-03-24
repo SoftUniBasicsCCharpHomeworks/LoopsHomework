@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\24WiggleWiggle\bin\Debug\24WiggleWiggle.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\24WiggleWiggle\bin\Debug\24WiggleWiggle.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\24WiggleWiggle\bin\Debug\24WiggleWiggle.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\24WiggleWiggle\obj\Debug\24WiggleWiggle.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\24WiggleWiggle\obj\Debug\24WiggleWiggle.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\24WiggleWiggle\obj\Debug\24WiggleWiggle.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\15HexadecimalToDecimal\bin\Debug\15HexadecimalToDecimal.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\15HexadecimalToDecimal\bin\Debug\15HexadecimalToDecimal.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\15HexadecimalToDecimal\bin\Debug\15HexadecimalToDecimal.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\15HexadecimalToDecimal\obj\Debug\15HexadecimalToDecimal.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\15HexadecimalToDecimal\obj\Debug\15HexadecimalToDecimal.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\15HexadecimalToDecimal\obj\Debug\15HexadecimalToDecimal.csprojResolveAssemblyReference.cache

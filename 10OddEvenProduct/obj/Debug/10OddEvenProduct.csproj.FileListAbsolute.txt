@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\19SpiralMatrix\bin\Debug\19SpiralMatrix.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\19SpiralMatrix\obj\Debug\19SpiralMatrix.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\19SpiralMatrix\obj\Debug\19SpiralMatrix.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\19SpiralMatrix\obj\Debug\19SpiralMatrix.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\05CalculateSequence\bin\Debug\05CalculateSequence.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\05CalculateSequence\bin\Debug\05CalculateSequence.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\05CalculateSequence\bin\Debug\05CalculateSequence.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\05CalculateSequence\obj\Debug\05CalculateSequence.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\05CalculateSequence\obj\Debug\05CalculateSequence.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\05CalculateSequence\obj\Debug\05CalculateSequence.pdb

@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\21DetectiveBoev\bin\Debug\21DetectiveBoev.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\21DetectiveBoev\bin\Debug\21DetectiveBoev.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\21DetectiveBoev\bin\Debug\21DetectiveBoev.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\21DetectiveBoev\obj\Debug\21DetectiveBoev.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\21DetectiveBoev\obj\Debug\21DetectiveBoev.pdb

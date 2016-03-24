@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\16DecimalToHex\bin\Debug\16DecimalToHex.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\16DecimalToHex\bin\Debug\16DecimalToHex.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\16DecimalToHex\bin\Debug\16DecimalToHex.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\16DecimalToHex\obj\Debug\16DecimalToHex.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\16DecimalToHex\obj\Debug\16DecimalToHex.pdb

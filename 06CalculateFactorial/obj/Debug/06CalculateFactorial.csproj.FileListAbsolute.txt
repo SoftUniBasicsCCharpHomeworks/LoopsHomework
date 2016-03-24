@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\06CalculateFactorial\bin\Debug\06CalculateFactorial.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\06CalculateFactorial\bin\Debug\06CalculateFactorial.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\06CalculateFactorial\bin\Debug\06CalculateFactorial.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\06CalculateFactorial\obj\Debug\06CalculateFactorial.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\06CalculateFactorial\obj\Debug\06CalculateFactorial.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\06CalculateFactorial\obj\Debug\06CalculateFactorial.pdb

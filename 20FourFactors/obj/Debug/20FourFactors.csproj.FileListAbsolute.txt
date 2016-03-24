@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\20FourFactors\bin\Debug\20FourFactors.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\20FourFactors\bin\Debug\20FourFactors.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\20FourFactors\bin\Debug\20FourFactors.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\20FourFactors\obj\Debug\20FourFactors.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\20FourFactors\obj\Debug\20FourFactors.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\20FourFactors\obj\Debug\20FourFactors.pdb

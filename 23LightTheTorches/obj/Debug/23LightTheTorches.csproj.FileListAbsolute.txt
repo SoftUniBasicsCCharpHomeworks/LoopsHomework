@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\23LightTheTorches\bin\Debug\23LightTheTorches.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\23LightTheTorches\bin\Debug\23LightTheTorches.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\23LightTheTorches\bin\Debug\23LightTheTorches.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\23LightTheTorches\obj\Debug\23LightTheTorches.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\23LightTheTorches\obj\Debug\23LightTheTorches.exe
+c:\users\pc\documents\visual studio 2015\Projects\LoopsHomework\23LightTheTorches\obj\Debug\23LightTheTorches.pdb
